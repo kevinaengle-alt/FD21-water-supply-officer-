@@ -1,0 +1,7 @@
+{
+  "name": "Fire Water Supply Worksheet",
+  "description": "A digital worksheet and calculator for Fire Department Water Supply Officers to manage tender operations, calculate GPM needs, and track on-scene water resources, based on the FD21 worksheet.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
